@@ -9,12 +9,6 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="170" src="https://cdn.discordapp.com/attachments/912377046691373147/1399998680987336725/image.gif?ex=688b09e0&is=6889b860&hm=8dcc4b971dbfb2d89aa45b3683ce04afab577ab947b565e1412c4621301733e8&"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
   <img width="12" />
